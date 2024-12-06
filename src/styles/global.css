@@ -134,3 +134,7 @@
       padding: 1em;
     }
   }
+
+  @view-transition {
+    navigation: auto;
+  }
